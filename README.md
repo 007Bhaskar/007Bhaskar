@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @007Bhaskar
 - 👀 I’m interested in learning and improving my current self and struggling to get it done 😁
-- 🌱 I’m currently learning VLSI Physical design Course and PD Engineer aspirant
 - 🧧 LinkedIn profile-- www.linkedin.com/in/sri-venkata-bhaskar-14a9b71b0
 - 📫 If you are looking for free resources to VLSI follow this links
 -     https://vlsiresources.com/
